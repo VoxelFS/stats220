@@ -9,8 +9,8 @@ For more information about this course, please visit this [link](https://courseo
 
 ## Projects
 This course contains a total of **5** projects:
-1. Project 1 - Learning how to use R is create images
-2. Project 2 - TBD
-3. Project 3 - TBD
-4. Project 4 - TBD
-5. Project 5 - TBD
+1. Project 1 - _Learning how to use R to create images_
+2. Project 2 - _TBD_
+3. Project 3 - _TBD_
+4. Project 4 - _TBD_
+5. Project 5 - _TBD_
