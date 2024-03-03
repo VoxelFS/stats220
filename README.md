@@ -7,6 +7,9 @@
 ## Course information
 For more information about this course, please visit this [🔗link](https://courseoutline.auckland.ac.nz/dco/course/STATS/220/1243)
 
+> [!NOTE]
+> This repository was made for Stats 220 in Semester 1 of 2024. Thus, the course outline link might not be relevant anymore if you are viewing from the future.
+
 ## Projects
 This course contains a total of **5 projects**:
 1. Project 1 - _Learning how to use R to create images_
@@ -14,6 +17,9 @@ This course contains a total of **5 projects**:
 3. Project 3 - _TBD_
 4. Project 4 - _TBD_
 5. Project 5 - _TBD_
+
+> [!IMPORTANT]
+> Each project is due every 2 weeks, with the first one being due on week 3 (13th March 2024).
 
 <p align="center">
 <img src="https://image.spreadshirtmedia.net/image-server/v1/compositions/T560A239PA1090PT17X6Y0D312520242W16715H20059/views/1,width=550,height=550,appearanceId=239,backgroundColor=BACAE0,noPt=true/i-love-cats-statistics-organic-short-sleeved-baby-bodysuit.jpg"/>
