@@ -5,7 +5,7 @@
 - This repository will contain all code and other things related to the assignments of this course.
 
 ## Course information
-For more information about this course, please visit this [link](https://courseoutline.auckland.ac.nz/dco/course/STATS/220/1243)
+For more information about this course, please visit this [🔗link](https://courseoutline.auckland.ac.nz/dco/course/STATS/220/1243)
 
 ## Projects
 This course contains a total of **5 projects**:
