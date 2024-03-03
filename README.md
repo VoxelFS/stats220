@@ -1,7 +1,7 @@
 # stats220
 
 ## Purpose
-- This repository has been made for a university class called **Stats 220**. 
+- This repository has been made for a university class called ||**Stats 220**||. 
 - This repository will contain all code and other things related to the assignments of this course.
 
 ## Course information
