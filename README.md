@@ -8,7 +8,7 @@
 For more information about this course, please visit this [link](https://courseoutline.auckland.ac.nz/dco/course/STATS/220/1243)
 
 ## Projects
-This course contains a total of **5** projects:
+This course contains a total of **5 projects**:
 1. Project 1 - _Learning how to use R to create images_
 2. Project 2 - _TBD_
 3. Project 3 - _TBD_
