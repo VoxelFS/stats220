@@ -19,7 +19,10 @@ This course contains a total of **5 projects**:
 5. Project 5 - _TBD_
 
 > [!IMPORTANT]
-> Each project is due every 2 weeks, with the first one being due on week 3 (13th March 2024).
+> Each project is due every 2 weeks, with the first due on week 3 (13th March 2024).
+
+> [!NOTE]
+> I will only be uploading my code for each project <ins>AFTER</ins> the deadline has passed. 
 
 <p align="center">
 <img src="https://image.spreadshirtmedia.net/image-server/v1/compositions/T560A239PA1090PT17X6Y0D312520242W16715H20059/views/1,width=400,height=400,appearanceId=239,backgroundColor=BACAE0,noPt=true/i-love-cats-statistics-organic-short-sleeved-baby-bodysuit.jpg"/>
